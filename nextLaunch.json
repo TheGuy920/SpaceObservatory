@@ -1,0 +1,15 @@
+{
+    "day": 30,
+    "hour": 12,
+    "minute": 0,
+    "second": 0,
+    "player_1": "Z72Au8Px7mM",
+    "player_2": "n5ozYnVQahE",
+    "player_3": "Ky5l9ZxsG9M",
+    "player_4": "dROdPn9Tpxg",
+    "force_play": false,
+    "force_stop": false,
+    "suffixPre": "T - ",
+    "suffixPost": "T + ",
+    "alt_message": "Scrub. Hopefully launch tomorrow"
+}
