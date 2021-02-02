@@ -11,5 +11,5 @@
     "force_stop": false,
     "suffixPre": "T - ",
     "suffixPost": "T + ",
-    "alt_message": ""
+    "alt_message": "Awaiting T - 0"
 }
