@@ -1,5 +1,5 @@
 {
-    "day": 34,
+    "day": 35,
     "hour": 12,
     "minute": 0,
     "second": 0,
@@ -11,5 +11,5 @@
     "force_stop": false,
     "suffixPre": "T - ",
     "suffixPost": "T + ",
-    "alt_message": "Scrub. Hopefully launch tomorrow"
+    "alt_message": "Launch happening soon. Waiting for T-0"
 }
