@@ -1,9 +1,9 @@
 {
-    "day": 35,
-    "hour": 16,
-    "minute": 0,
+    "day": 49,
+    "hour": 12,
+    "minute": 50,
     "second": 0,
-    "player_1": "n5ozYnVQahE",
+    "player_1": "gm0b_ijaYMQ",
     "player_2": "dROdPn9Tpxg",
     "player_3": "Ky5l9ZxsG9M",
     "player_4": "Z72Au8Px7mM",
@@ -11,5 +11,5 @@
     "force_stop": false,
     "suffixPre": "T - ",
     "suffixPost": "T + ",
-    "cound_down_active": false
+    "cound_down_active": true
 }
