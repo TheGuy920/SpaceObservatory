@@ -11,5 +11,5 @@
     "force_stop": false,
     "suffixPre": "T - ",
     "suffixPost": "T + ",
-    "cound_down_active": true
+    "cound_down_active": false
 }
