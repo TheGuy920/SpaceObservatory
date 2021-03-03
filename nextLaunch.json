@@ -2,7 +2,7 @@
     "day": 62,
     "hour": 18,
     "minute": 14,
-    "second": 54,
+    "second": 34,
     "player_1": "sTA0GTgFn5E",
     "player_2": "XOQkk3ojNfM",
     "player_3": "ODY6JWzS8WU",
@@ -11,5 +11,5 @@
     "force_stop": false,
     "suffixPre": "T - ",
     "suffixPost": "T + ",
-    "cound_down_active": true
+    "cound_down_active": false
 }
