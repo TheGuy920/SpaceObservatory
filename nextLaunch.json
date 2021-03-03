@@ -1,8 +1,8 @@
 {
     "day": 62,
     "hour": 14,
-    "minute": 17,
-    "second": 20,
+    "minute": 0,
+    "second": 0,
     "player_1": "sTA0GTgFn5E",
     "player_2": "XOQkk3ojNfM",
     "player_3": "DDEgFsefrGw",
@@ -11,5 +11,5 @@
     "force_stop": false,
     "suffixPre": "T - ",
     "suffixPost": "T + ",
-    "cound_down_active": true
+    "cound_down_active": false
 }
